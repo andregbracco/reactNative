@@ -9,7 +9,10 @@ const favoritosStack = {
 };
 const cuentaStack = {
   tab: "CuentaTab",
-  account: "Cuenta"
+  account: "Cuenta",
+  login: "Login",
+  register: "Register"
+
 };
 const rankingStack = {
   tab: "RankingTab",
